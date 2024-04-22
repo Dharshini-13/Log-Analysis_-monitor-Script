@@ -1,3 +1,4 @@
+![Logs exit](https://github.com/Dharshini-13/Log-Analysis_Monitor-Script/assets/110340714/9778652a-44c5-44db-a7c7-00bd9148358f)
 
 **Log Analysis and Monitoring Script:**
 
@@ -53,3 +54,5 @@ Handles keyboard interrupt (Ctrl+C) to gracefully exit the script.
 Dharshini Sridharan
 
 ![Logs](https://github.com/Dharshini-13/Log-Analysis_Monitor-Script/assets/110340714/6f7e857c-8208-46a3-b70a-3ab4fd56a310)
+![Logs exit](https://github.com/Dharshini-13/Log-Analysis_Monitor-Script/assets/110340714/9778652a-44c5-44db-a7c7-00bd9148358f)
+
