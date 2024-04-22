@@ -1,0 +1,24 @@
+import logging
+import time
+import random
+
+# Configure logging
+logging.basicConfig(filename='User.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s: %(message)s')
+
+# Define log levels and messages
+log_levels = [logging.INFO, logging.DEBUG, logging.ERROR]
+log_messages = {
+    logging.INFO: "Application started",
+    logging.DEBUG: "Processing request",
+    logging.ERROR: "Database connection failed"
+}
+
+# Generate log entries
+try:
+    while True:
+        log_level = random.choice(log_levels)
+        log_message = log_messages[log_level]
+        logging.log(log_level, log_message)
+        time.sleep(1)
+except KeyboardInterrupt:
+    print("\nLogging interrupted. Exiting.")
