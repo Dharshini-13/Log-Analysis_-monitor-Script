@@ -41,6 +41,10 @@ Executes a continuous loop to log messages at random log levels with a short int
 The script checks if it is being executed as the main program (__name__ == "__main__").
 If so, it invokes the main() function to start monitoring the log file.
 
+**User.Log file usage**
+• The script continuously monitors the example.log file for new log entries using the monitor_log() function. Within the monitor_log() function, the script attempts to open the User.log file for reading ('r' mode).
+• If the file exists, the script reads new lines from the file continuously, simulating real-time monitoring of a log file for new entries.
+
 • Exception Handling:
 Handles keyboard interrupt (Ctrl+C) to gracefully exit the script.
 
