@@ -1,4 +1,4 @@
-![Logs](https://github.com/Dharshini-13/Log-Analysis_Monitor-Script/assets/110340714/6f7e857c-8208-46a3-b70a-3ab4fd56a310)
+
 **Log Analysis and Monitoring Script:**
 
 This README provides an overview of the Log Analysis and Monitoring Script,including usage instructions,script details and author attribution. For further details on the script's implementation and usage, please refer to the provided Python script file.
@@ -51,3 +51,5 @@ Handles keyboard interrupt (Ctrl+C) to gracefully exit the script.
 
 **Author:**
 Dharshini Sridharan
+
+![Logs](https://github.com/Dharshini-13/Log-Analysis_Monitor-Script/assets/110340714/6f7e857c-8208-46a3-b70a-3ab4fd56a310)
