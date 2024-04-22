@@ -22,6 +22,9 @@ The provided Python script is designed to monitor a specified log file for new e
 • Logging Configuration:
 The script configures the logging module to log messages to the file "log_monitor_Script.log" at the INFO level. The log messages include the timestamp, log level, and message content.
 
+• Log Message Formats:
+Defines message formats for different log levels: INFO, DEBUG, and ERROR.
+
 • Signal Handler:
 Defines a signal handler function signal_handler to handle the Ctrl+C signal (SIGINT). When Ctrl+C is pressed, the script gracefully exits and logs a message indicating that the monitoring process has been interrupted.
 
