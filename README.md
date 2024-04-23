@@ -1,4 +1,3 @@
-![Logs exit](https://github.com/Dharshini-13/Log-Analysis_Monitor-Script/assets/110340714/9778652a-44c5-44db-a7c7-00bd9148358f)
 
 **Log Analysis and Monitoring Script:**
 
